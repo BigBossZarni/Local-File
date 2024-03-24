@@ -1,0 +1,20 @@
+DAT STAFF LIST
+------------------------------------------------------------------------------------------------
+Name        : Su Su
+Position    : Senior Project Manager
+Experience  : 4 years
+Certificate : Yes
+Current_Project : Java Project
+------------------------------------------------------------------------------------------------
+Name        : Kyaw Kyaw
+Position    : Programmer
+Experience  : 3 years
+Certificate : No
+Current_Project : Ruby Project
+------------------------------------------------------------------------------------------------
+Name        : Ma Ma
+Position    : Project Manager
+Experience  : 3 years
+Certificate : Yes
+Current_Project : Python Project
+------------------------------------------------------------------------------------------------

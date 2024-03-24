@@ -1,0 +1,21 @@
+# This is the staff list in current financial year.
+$$$DAT_STAFF_START$$$
+DAT STAFF LIST
+------------------------------------------------------------------------------------------------
+$$$LIST_START$$$
+Name        : $$$NAME$$$
+Position    : $$$POSITION$$$
+Experience  : $$$EXPERIENCE$$$
+Certificate : $$$CERTIFICATE$$$
+Current_Project : $$$PROJECT$$$
+------------------------------------------------------------------------------------------------
+$$$LIST_END$$$
+$$$DIR_STAFF_START$$$
+DIR STAFF LIST
+------------------------------------------------------------------------------------------------
+$$$DIR_LIST_START$$$
+Name       : $$$NAME$$$
+Position   : $$$POSITION$$$
+Department : $$$DEPARTMENT$$$
+------------------------------------------------------------------------------------------------
+$$$DIR_LIST_END$$$

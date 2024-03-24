@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="pyaesone.css" />
+    <title>Japanese Hiragana Font Training</title>
+  </head>
+  <body>
+    <script>
+      // Function to generate a random string from an array
+      function getFontRandomString() {
+        var stringArray = ["あ", "い", "う", "え", "お", "しょ"];
+        var randomIndex = Math.floor(Math.random() * stringArray.length);
+        return stringArray[randomIndex];
+      }
+
+      // Function to show an alert with a random string
+      function showAlert() {
+        var randomString = getFontRandomString();
+        alert(`I Want to know this Hiragana Font : "${randomString}"`);
+      }
+    </script>
+
+    <!-- HTML form with a submit button -->
+    <!-- <form>
+      <input type="submit" value="Submit" onclick="showAlert()" />
+    </form> -->
+    <a href="#" onclick="showAlert()">
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      Submit
+    </a>
+  </body>
+</html>
